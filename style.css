@@ -1,0 +1,51 @@
+*
+{
+margin: 0;
+padding: 0;
+}
+header{
+    background: black;
+    color: #0f0f0f;
+}
+#header{
+    width: 100%;
+    height: 100vh;
+    margin-top: auto;
+    background-image:url("https://t4.ftcdn.net/jpg/02/94/29/33/360_F_294293388_rMi36DO4isvXoNh8B3Q5G07X0bL9z1Ng.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.header-text{
+    margin-top: 0%;
+    font-size: 30px;
+    text-align: center;
+}
+.header-text h1{
+    font-size: 60px;
+    margin-top: 40px;
+}
+.header-text p{
+  color: red;  
+}
+.header-text h1{
+color: white;
+}
+.col-lg-8 p{
+    text-align: left;
+}
+.row-mt-3 p{
+  text-align: left;   
+}
+.contact-section h1,p{
+    text-align: center;
+}
+.contact-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: orangered;
+    
+}
+.footer-id{
+    background-color: gray;
+}
